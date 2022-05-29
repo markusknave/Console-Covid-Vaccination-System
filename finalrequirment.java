@@ -1,14 +1,11 @@
-package ict;
-
 import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
 import java.nio.file.*;
 import static java.nio.file.StandardOpenOption.APPEND;
-
 import java.io.*;
 
-public class finalrequirment {
+public class covidSystem {
 	static String name,fdate,fbrand,sdate,sbrand,_temp = null;
 	static String [] records = new String[9999];
 	static int refNum;
